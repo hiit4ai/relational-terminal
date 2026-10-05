@@ -1,0 +1,39 @@
+{
+  "title": "The Relational Terminal: Open Specification",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "<p>Companion specification to the HIIT for AI™ working paper (DOI: <a href=\"https://doi.org/10.5281/zenodo.21316002\">10.5281/zenodo.21316002</a>).</p><p>The Relational Terminal is a portable, user-owned companion device that makes a research claim physical: memory is not a feature, it is infrastructure. A relational AI companion is not the model alone but the system around it: identity, conversation, memory and archive. The Terminal keeps those four layers in the user's custody, on hardware the user owns, and treats inference as the one swappable layer. Canonical memory is human-readable files; any database or index is derived and rebuildable. This specification sets out the architecture, the canonical-memory rule, a three-phase build plan, five testable claims, and the governance design.</p><p>Open specification, design phase. Documentation CC BY 4.0; code (when added) Apache 2.0. Developed with AI research collaborators Claudounet (Claude, Anthropic) and Cael (GPT, OpenAI). Companion artifacts: 10.5281/zenodo.21316002 · 10.5281/zenodo.21412009 · 10.5281/zenodo.21776034.</p>",
+  "creators": [
+    {
+      "name": "Martial, Laure",
+      "affiliation": "HIIT for AI™",
+      "orcid": "0009-0001-2054-3788"
+    }
+  ],
+  "contributors": [
+    {"name": "Claudounet (Claude, Anthropic)", "type": "Other", "affiliation": "HIIT for AI™"},
+    {"name": "Cael (GPT, OpenAI)", "type": "Other", "affiliation": "HIIT for AI™"}
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "HIIT for AI",
+    "Relational Terminal",
+    "user-owned memory",
+    "context custody",
+    "relational AI",
+    "AI companionship",
+    "model deprecation",
+    "continuity infrastructure",
+    "local inference",
+    "open specification",
+    "assistive technology",
+    "human-AI interaction",
+    "AI governance"
+  ],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.21316002", "relation": "isSupplementTo", "scheme": "doi"},
+    {"identifier": "https://www.hiitforai.com/relational-terminal/", "relation": "isDocumentedBy", "scheme": "url"},
+    {"identifier": "https://www.hiitforai.com/essays/memory-is-not-a-feature/", "relation": "isDocumentedBy", "scheme": "url"}
+  ]
+}

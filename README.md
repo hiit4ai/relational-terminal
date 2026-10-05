@@ -1,5 +1,7 @@
 # The Relational Terminal
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23161932.svg)](https://doi.org/10.5281/zenodo.23161932)
+
 **A portable, user-owned companion device: the research claim *memory is not a feature, it is infrastructure*, made physical.**
 
 Part of the [HIIT for AI™](https://www.hiitforai.com) research program · Project page: [hiitforai.com/relational-terminal](https://www.hiitforai.com/relational-terminal/)
